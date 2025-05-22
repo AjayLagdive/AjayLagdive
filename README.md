@@ -6,8 +6,12 @@ A passionate **Full-Stack Developer** from **Maharashtra, Dharashiv**
 - 🌱 I’m currently learning **Java, React, JavaScript, Node.js, MongoDB, MySQL, Express.js**
 - 🤝 I’m looking to collaborate on **Open source projects, freelance, etc.**
 - 💬 Ask me about **Full-Stack Development, Java, or MERN stack**
-- 📫 How to reach me: [your.email@example.com]
-- ⚡ Fun fact: [A cool or funny fact about you]
+- 📫 How to reach me: [lagdiveajay96@gmail.com]
+- ⚡ Fun fact: [.
+
+🐞 I don't make mistakes — I create unexpected features.
+
+]
 
 ---
 
@@ -23,6 +27,19 @@ A passionate **Full-Stack Developer** from **Maharashtra, Dharashiv**
 
 ---
 
-## 📊 GitHub Stats
+### 📈 GitHub Stats
 
-[![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AjayLagdive&show_icons=true&theme=radical" alt="AjayLagdive" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjayLagdive&theme=radical" alt="AjayLagdive" />
+</p>
+
+---
+
+### 🧑‍💻 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/ajaylagdive" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="30" width="30" /></a>
+</p>
