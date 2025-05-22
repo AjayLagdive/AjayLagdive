@@ -7,11 +7,7 @@ A passionate **Full-Stack Developer** from **Maharashtra, Dharashiv**
 - 🤝 I’m looking to collaborate on **Open source projects, freelance, etc.**
 - 💬 Ask me about **Full-Stack Development, Java, or MERN stack**
 - 📫 How to reach me: [lagdiveajay96@gmail.com]
-- ⚡ Fun fact: [.
-
-🐞 I don't make mistakes — I create unexpected features.
-
-]
+- ⚡ Fun fact: [.🐞 I don't make mistakes — I create unexpected features.]
 
 ---
 
@@ -47,4 +43,6 @@ A passionate **Full-Stack Developer** from **Maharashtra, Dharashiv**
 <p align="left">
   <a href="https://linkedin.com/in/ajaylagdive" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a>
   <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="30" width="30" /></a>
+  <a href="https://instagram.com/_aabhi45_?igsh=MTJndzBvMWN3cTJpOQ==" target="blank"><img align="center" src="https://images.icon-icons.com/836/PNG/512/Instagram_icon-icons.com_66804.png" alt="instagram" height="30" width="30" /></a>
 </p>
+
